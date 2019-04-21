@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Arithmetic\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.deps.json
+D:\my programs\C Sharp\Arithmetic\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.runtimeconfig.json
+D:\my programs\C Sharp\Arithmetic\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.runtimeconfig.dev.json
+D:\my programs\C Sharp\Arithmetic\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.dll
+D:\my programs\C Sharp\Arithmetic\Arithmetic\bin\Debug\netcoreapp2.1\Arithmetic.pdb
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.AssemblyInfo.cs
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.dll
+D:\my programs\C Sharp\Arithmetic\Arithmetic\obj\Debug\netcoreapp2.1\Arithmetic.pdb

@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.deps.json
+D:\my programs\C Sharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.json
+D:\my programs\C Sharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.dev.json
+D:\my programs\C Sharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.dll
+D:\my programs\C Sharp\Classes\Classes\bin\Debug\netcoreapp2.1\Classes.pdb
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfo.cs
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.dll
+D:\my programs\C Sharp\Classes\Classes\obj\Debug\netcoreapp2.1\Classes.pdb

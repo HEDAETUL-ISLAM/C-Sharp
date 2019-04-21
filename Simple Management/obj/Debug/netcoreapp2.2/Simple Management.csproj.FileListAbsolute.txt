@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Simple Management\bin\Debug\netcoreapp2.2\Simple Management.deps.json
+D:\my programs\C Sharp\Simple Management\bin\Debug\netcoreapp2.2\Simple Management.runtimeconfig.json
+D:\my programs\C Sharp\Simple Management\bin\Debug\netcoreapp2.2\Simple Management.runtimeconfig.dev.json
+D:\my programs\C Sharp\Simple Management\bin\Debug\netcoreapp2.2\Simple Management.dll
+D:\my programs\C Sharp\Simple Management\bin\Debug\netcoreapp2.2\Simple Management.pdb
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.AssemblyInfo.cs
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.dll
+D:\my programs\C Sharp\Simple Management\obj\Debug\netcoreapp2.2\Simple Management.pdb

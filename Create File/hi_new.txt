@@ -1,0 +1,22 @@
+For all HTML elements except PRE, sequences of white space separate "words" 
+(we use the term "word" here to mean "sequences of non-white space characters"). 
+hen formatting text, user agents should identify these words and lay them out 
+according to the conventions of the particular written language (script) and target medium.
+
+This layout may involve putting space between words (called inter-word space),
+but conventions for inter-word space vary from script to script. For example, 
+n Latin scripts, inter-word space is typically rendered as an ASCII space (&#x0020;), 
+while in Thai it is a zero-width word separator (&#x200B;).
+ In Japanese and Chinese, inter-word space is not typically rendered at all.
+
+
+
+Statement text can be specified in the PREPARE statement
+as a quoted string
+or as text that is stored in an ESQL/C program variable
+or (in SPL routines) as a character expression.
+The following restrictions apply to the statement text:
+The text can contain only SQL statements. It cannot contain statements or comments from the host programming language.
+The text can contain comments preceded by a double hyphen (--), or that are enclosed in braces ( { } ) or in C-style 
+slash and asterisk ( /* */ ) delimiters.
+These symbols introduce or enclose SQL comments. For more information on SQL comment symbols, see How to Enter SQL Comments.

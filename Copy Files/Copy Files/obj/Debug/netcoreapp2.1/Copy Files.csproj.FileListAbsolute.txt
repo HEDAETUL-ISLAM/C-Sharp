@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Copy Files\Copy Files\bin\Debug\netcoreapp2.1\Copy Files.deps.json
+D:\my programs\C Sharp\Copy Files\Copy Files\bin\Debug\netcoreapp2.1\Copy Files.runtimeconfig.json
+D:\my programs\C Sharp\Copy Files\Copy Files\bin\Debug\netcoreapp2.1\Copy Files.runtimeconfig.dev.json
+D:\my programs\C Sharp\Copy Files\Copy Files\bin\Debug\netcoreapp2.1\Copy Files.dll
+D:\my programs\C Sharp\Copy Files\Copy Files\bin\Debug\netcoreapp2.1\Copy Files.pdb
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.AssemblyInfo.cs
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.dll
+D:\my programs\C Sharp\Copy Files\Copy Files\obj\Debug\netcoreapp2.1\Copy Files.pdb

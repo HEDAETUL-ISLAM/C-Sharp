@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Write Text\Write Text\bin\Debug\netcoreapp2.1\Write Text.deps.json
+D:\my programs\C Sharp\Write Text\Write Text\bin\Debug\netcoreapp2.1\Write Text.runtimeconfig.json
+D:\my programs\C Sharp\Write Text\Write Text\bin\Debug\netcoreapp2.1\Write Text.runtimeconfig.dev.json
+D:\my programs\C Sharp\Write Text\Write Text\bin\Debug\netcoreapp2.1\Write Text.dll
+D:\my programs\C Sharp\Write Text\Write Text\bin\Debug\netcoreapp2.1\Write Text.pdb
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.AssemblyInfo.cs
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.dll
+D:\my programs\C Sharp\Write Text\Write Text\obj\Debug\netcoreapp2.1\Write Text.pdb

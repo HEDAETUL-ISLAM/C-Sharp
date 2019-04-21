@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\bin\Debug\netcoreapp2.1\ReadAllTextFile.deps.json
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\bin\Debug\netcoreapp2.1\ReadAllTextFile.runtimeconfig.json
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\bin\Debug\netcoreapp2.1\ReadAllTextFile.runtimeconfig.dev.json
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\bin\Debug\netcoreapp2.1\ReadAllTextFile.dll
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\bin\Debug\netcoreapp2.1\ReadAllTextFile.pdb
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.csprojAssemblyReference.cache
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.AssemblyInfo.cs
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.dll
+D:\my programs\C Sharp\ReadAllTextFile\ReadAllTextFile\obj\Debug\netcoreapp2.1\ReadAllTextFile.pdb

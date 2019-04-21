@@ -1,0 +1,11 @@
+D:\my programs\C Sharp\Structure\Structure\bin\Debug\netcoreapp2.1\Structure.deps.json
+D:\my programs\C Sharp\Structure\Structure\bin\Debug\netcoreapp2.1\Structure.runtimeconfig.json
+D:\my programs\C Sharp\Structure\Structure\bin\Debug\netcoreapp2.1\Structure.runtimeconfig.dev.json
+D:\my programs\C Sharp\Structure\Structure\bin\Debug\netcoreapp2.1\Structure.dll
+D:\my programs\C Sharp\Structure\Structure\bin\Debug\netcoreapp2.1\Structure.pdb
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.csprojAssemblyReference.cache
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.csproj.CoreCompileInputs.cache
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.AssemblyInfoInputs.cache
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.AssemblyInfo.cs
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.dll
+D:\my programs\C Sharp\Structure\Structure\obj\Debug\netcoreapp2.1\Structure.pdb

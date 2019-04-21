@@ -1,0 +1,3 @@
+For all HTML elements except PRE, sequences of white space separate "words" (we use the term "word" here to mean "sequences of non-white space characters"). When formatting text, user agents should identify these words and lay them out according to the conventions of the particular written language (script) and target medium.
+
+This layout may involve putting space between words (called inter-word space), but conventions for inter-word space vary from script to script. For example, in Latin scripts, inter-word space is typically rendered as an ASCII space (&#x0020;), while in Thai it is a zero-width word separator (&#x200B;). In Japanese and Chinese, inter-word space is not typically rendered at all.
